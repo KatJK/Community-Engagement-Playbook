@@ -8,4 +8,4 @@ Generally, cities are interested in getting data and information in the hands of
 * Public co-produced policy and open data prioritization with the city
 * City uses data to target policies or programs to improve residents lives
 
-For each purpose, think about the scope of stakeholder participation that you would like to achieve, and the stage of the program. Are you hoping to design a new policy or program by committee? Would you prefer to give the community something to respond to? Are you soliciting feedback for a pilot tool, or are you ready to launch and cultivate users?
+For each purpose, think about the scope of stakeholder participation that you would like to achieve, and the stage at which you are bringing the public in. Are you hoping to design a new policy or program by committee? Would you prefer to give the community something to respond to? Are you soliciting feedback for a pilot tool, or are you ready to launch and cultivate users?
