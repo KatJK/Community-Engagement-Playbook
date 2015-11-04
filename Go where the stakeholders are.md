@@ -1,5 +1,5 @@
 
-# 3. Go where the stakeholders are
+# Go where the stakeholders are
 
 * Attend community meetings and events, such as farmers markets, festivals and sporting events
 * Roundtable, town hall, forum-it doesn’t matter what you call it. Hold public meetings in various parts of the city, at different times of the day. Plan the meetings so that they are interactive, and encourage participants to work with one another and [actively participate](http://www.austintexas.gov/department/community-participation).
