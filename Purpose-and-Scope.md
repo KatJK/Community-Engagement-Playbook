@@ -1,8 +1,8 @@
 # 1. **Define the purpose and scope of stakeholder participation**
 Begin by determining what you hope to achieve by public participation. 
-Generally, cities are interested in getting data and information in the hands of residents, who can use it to [stay informed](http://gis.aurora-il.org/myplace/) and make decisions.  In addition to consuming the data, residents can create [tools of their own](http://votedenton.org/) to solve civic problems once the data is made available.
+Generally, cities are interested in getting data and information in the hands of residents, who can use it to [stay informed](http://gis.aurora-il.org/myplace/) and make decisions.  In addition to consuming the data, residents can create [tools of their own](http://votedenton.org/) to solve civic problems once the data is made available. The 
  
-GovEx has identified three such purposes:
+> GovEx has identified four purposes that cities may wish to engage the public:
 * Public interacts and engages with data apps and visualization tools
 * Public creates innovative tools from raw data
 * Public co-produced policy and open data prioritization with the city
